@@ -1,0 +1,9 @@
+{
+	"name": "Happy Trout",
+	"age": 3,
+	"address": {
+		"street": "123 Main St",
+		"city": "New York",
+		"country": "USA"
+	}
+}
